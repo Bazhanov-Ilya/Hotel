@@ -1,0 +1,60 @@
+F:\Project\Hotel\Hotel\bin\Debug\Hotel.exe.config
+F:\Project\Hotel\Hotel\bin\Debug\Hotel.exe
+F:\Project\Hotel\Hotel\bin\Debug\Hotel.pdb
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.FormLogIn.resources
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.exe
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.pdb
+F:\Project\Hotel\Hotel\bin\Debug\AMRConnector.dll
+F:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\Project\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Project\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Project\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.FormLogIn.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.FormDashboard.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.UserControlSetting.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlClient.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlRoom.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlReservation.resources
+D:\Project\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlDashboard.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.FormDashboard.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.FormLogIn.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlClient.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlDashboard.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlReservation.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlRoom.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.UserControlSetting.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.FormDashboard.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.FormLogIn.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlClient.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlDashboard.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlReservation.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.User_Control.UserControlRoom.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.UserControlSetting.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Учеба\Hotel\Hotel\obj\Debug\Hotel.pdb
